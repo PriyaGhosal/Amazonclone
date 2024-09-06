@@ -79,8 +79,31 @@
     justify-content: center;
     align-items: center;
     font: 1.5rem;
-    background-color: hsl(40, 100%, 50%);
+    background-color: #febd68;
     border-top-right-radius:4px ;
     border-bottom-right-radius: 4px;
     color: #0f1111;
+ }
+
+ .navsearch:hover{
+    border: 2px solid #febd68 ;
+ }
+
+ /* box 4 */
+ span{
+    font-size: 0.7rem;
+ }
+ .nav-second{
+    font-size: 0.85rem;
+    font-weight: 700;
+ }
+
+ /* box 6 */
+ .nav-cart i {
+    font-size: 30px;
+ }
+
+ .nav-cart {
+    font-size: 0.85rem;
+    font-weight: 700;
  }
