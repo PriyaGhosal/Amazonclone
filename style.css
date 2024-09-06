@@ -249,15 +249,21 @@ ul a{
 .footpanel4{
    background-color: #0f1111;
    color: white;
-   height: 80px;
+   height: 100px;
+   
 }
 
 .pages{
-   
-   padding-top: 25px;
+   padding-top: 20px;
+   font-size: 0.7rem;
+   text-align: center;
+
 }
 
 .copyright{
+   
    padding-top: 5px;
+   font-size: 0.7rem;
+   text-align: center;
    
 }
